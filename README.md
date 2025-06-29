@@ -6,8 +6,12 @@
 
 ###
 
-<p align="left">🐍 Python enthusiast with a growing passion for Artificial Intelligence  <br>📚 I'm currently learning AI <br>📬 Contact: szymochadamian159@gmail.com</p>
-
+<p align="left">
+  🐍 Python enthusiast with a growing passion for Artificial Intelligence <br>
+  📚 I'm currently learning AI <br>
+  📬 Contact: szymochadamian159@gmail.com <br>
+  💼 <a href="https://www.linkedin.com/in/damianszymocha/" target="_blank">LinkedIn</a>
+</p>
 ###
 
 <h2 align="left">I code with</h2>
