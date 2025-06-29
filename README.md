@@ -28,7 +28,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ap4chee/Ap4chee/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ap4chee/Ap4chee/output/snake.yml" alt="Snake animation" />
 
 ###
 
