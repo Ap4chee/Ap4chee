@@ -7,8 +7,8 @@
 ###
 
 <p align="left">
-  🐍 Python enthusiast with a growing passion for Artificial Intelligence <br>
-  📚 I'm currently learning AI <br>
+  🐘 PHP enthusiast with a growing passion for web development <br>
+  📚 Currently mastering RESTful API development with Laravel <br>
   📬 Contact: szymochadamian159@gmail.com <br>
   💼 <a href="https://www.linkedin.com/in/damianszymocha/" target="_blank">LinkedIn</a>
 </p>
