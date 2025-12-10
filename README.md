@@ -8,7 +8,7 @@
 
 <p align="left">
   🐘 AI enthusiast <br>
-  📚 Currently mastering CV <br>
+  📚 Currently mastering computer vision <br>
   📬 Contact: szymochadamian159@gmail.com <br>
   💼 <a href="https://www.linkedin.com/in/damianszymocha/" target="_blank">LinkedIn</a>
 </p>
