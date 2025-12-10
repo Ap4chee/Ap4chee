@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Damian</h1>
+<h1 align="left">Hi</h1>
 
 ###
 
@@ -7,8 +7,8 @@
 ###
 
 <p align="left">
-  🐘 PHP enthusiast with a growing passion for web development <br>
-  📚 Currently mastering RESTful API development with Laravel <br>
+  🐘 AI enthusiast <br>
+  📚 Currently mastering CV <br>
   📬 Contact: szymochadamian159@gmail.com <br>
   💼 <a href="https://www.linkedin.com/in/damianszymocha/" target="_blank">LinkedIn</a>
 </p>
