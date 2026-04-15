@@ -13,4 +13,4 @@
 <img src="https://raw.githubusercontent.com/Ap4chee/Ap4chee/output/snake.svg" alt="Snake animation" />
 
 ###
-My Pinned projects are results of various Hackathons – built in 24/48h sprints.
+## 🏆 Hackathon MVPs ⬇️
