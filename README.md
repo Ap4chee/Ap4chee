@@ -1,11 +1,5 @@
 <h1 align="left">Hi</h1>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">
   AI enthusiast <br>
   Contact: szymochadamian159@gmail.com <br>
