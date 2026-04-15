@@ -13,8 +13,4 @@
 <img src="https://raw.githubusercontent.com/Ap4chee/Ap4chee/output/snake.svg" alt="Snake animation" />
 
 ###
-## 🏆 Hackathon Projects
-The repositories pinned below are the highlights of my hackathon journey. They represent my ability to build MVPs, work under pressure, and solve complex problems in short timeframes.
-
-* **[hacknationAnomalie](https://github.com/Dymirt/hacknationAnomalie)** – Built during **Hacknation**. Focus: AI & Anomaly Detection. 🐍 `Python`
-* **[Civil67](https://github.com/rvabka/Civil67)** – Created for **[Nazwa Hackatonu]**. Focus: Scalable architecture. 🟦 `TypeScript`
+My Pinned projects are results of various Hackathons – built in 24/48h sprints.
